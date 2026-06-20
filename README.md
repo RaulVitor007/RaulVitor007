@@ -2,15 +2,23 @@
 
 <h3 align="center">
 🚀 Estudante de Análise e Desenvolvimento de Sistemas
-<br>
-💻 Focado em Back-end 
+</h3>
+
+<h3 align="center">
+💻 Desenvolvedor Back-end em Formação
 </h3>
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=180&section=header&text=Raul%20Vitor&fontSize=45&fontColor=ffffff"/>
+</div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RaulVitor007&show_icons=true&theme=tokyonight&hide_border=true)
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RaulVitor007&layout=compact&theme=tokyonight&hide_border=true)
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaulVitor007&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaulVitor007&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -20,21 +28,17 @@
 
 Sou estudante de **Análise e Desenvolvimento de Sistemas (ADS)** e estou construindo minha carreira na área de desenvolvimento de software.
 
-Minha trajetória profissional anterior me proporcionou disciplina, responsabilidade e consistência, características que hoje aplico diariamente no aprendizado e desenvolvimento de soluções de software.
+Minha experiência profissional anterior me proporcionou disciplina, responsabilidade, consistência e foco em resultados, qualidades que hoje aplico diariamente no desenvolvimento de software.
 
-Atualmente meu foco está em:
+Atualmente concentro meus estudos em:
 
-✔️ Lógica de programação
-
-✔️ Desenvolvimento Back-end
-
-✔️ Estruturas de dados
-
-✔️ Manipulação de dados
-
-✔️ Regras de negócio
-
-✔️ Boas práticas de programação
+- Desenvolvimento Back-end
+- Lógica de Programação
+- Estruturas de Dados
+- Programação Orientada a Objetos
+- Boas Práticas de Código
+- Manipulação de Dados
+- Regras de Negócio
 
 ---
 
@@ -42,17 +46,17 @@ Atualmente meu foco está em:
 
 Busco minha primeira oportunidade como:
 
-🎓 **Estagiário de Desenvolvimento Back-end**
+### 💼 Estagiário de Desenvolvimento Back-end
 
-Meu objetivo é evoluir continuamente em:
+Meu objetivo é consolidar uma base sólida em:
 
 - Python
-- Java (proxima linguagem ser estudada) 📚
-- C#   (proxima linguagem ser estudada) 📚
+- Java
+- C#
 - APIs REST
-- Banco de Dados
+- Banco de Dados SQL
 - Arquitetura de Software
-- e futuramente quem sabe um Desenvolvimento Full Stack
+- Desenvolvimento Full Stack
 
 ---
 
@@ -60,28 +64,21 @@ Meu objetivo é evoluir continuamente em:
 
 <div align="center">
 
-<img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-&nbsp;&nbsp;&nbsp;
-
-<img alt="Java" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-&nbsp;&nbsp;&nbsp;
-
-<img alt="C#" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-&nbsp;&nbsp;&nbsp;
-
-<img alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-&nbsp;&nbsp;&nbsp;
-
-<img alt="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg">
-&nbsp;&nbsp;&nbsp;
-
-<img alt="VS Code" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+<img src="https://skillicons.dev/icons?i=python,java,cs,git,github,vscode" />
 
 </div>
 
 ---
 
 ## 📚 Atualmente Estudando
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,cs,mysql" />
+
+</div>
+
+<br>
 
 - Python Avançado
 - Programação Orientada a Objetos
@@ -99,13 +96,17 @@ Meu objetivo é evoluir continuamente em:
 
 Projeto desenvolvido em Python focado em:
 
-- Controle de fluxo
-- Tratamento rigoroso de strings
-- Escopo local (`locals()`)
-- Segurança básica de autenticação
-- Organização de código
+✔ Controle de Fluxo
 
-🔗 Projeto:
+✔ Tratamento de Strings
+
+✔ Organização de Código
+
+✔ Escopo Local (`locals()`)
+
+✔ Boas Práticas de Desenvolvimento
+
+🔗 Repositório:
 
 <a href="https://github.com/RaulVitor007/sistema-autenticacao-console">
 Sistema de Autenticação em Console
@@ -113,16 +114,16 @@ Sistema de Autenticação em Console
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌎 Contato
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/raulvitor007/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/raulvitor007">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="https://github.com/RaulVitor007">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -139,8 +140,10 @@ Sistema de Autenticação em Console
 
 <div align="center">
 
-### 💭 Frase que guia minha jornada
+### 💭 Filosofia
 
-*"Disciplina é a ponte entre metas e realizações."*
+*"Não desista. Quando pensar em parar, lembre-se do propósito que te moveu: o tempo é finito (Memento mori), mas a jornada exige ser vivida (Memento vivere)."*
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
